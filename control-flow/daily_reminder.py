@@ -17,5 +17,4 @@ if time_bound == "yes":
 else:
     message += ". Consider completing it when you have free time."
 
-print()
 print(message)
